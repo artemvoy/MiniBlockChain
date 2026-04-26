@@ -8,7 +8,7 @@ namespace Domains.Models
 {
     public class BlockChain
     {
-        public int Id { get; set; }
+        public int Id { get; set; } 
         public string DocumentHash { get; set; } = null!;
         public string PreviousHash { get; set; } = null!;
         public DateTime Timestamp { get; set; }
