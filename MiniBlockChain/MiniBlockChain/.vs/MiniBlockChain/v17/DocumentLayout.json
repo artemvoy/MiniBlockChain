@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\myworkvisualstudio\\MiniBlockChain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|d:\\myworkvisualstudio\\miniblockchain\\miniblockchain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|solutionrelative:miniblockchain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|d:\\myworkvisualstudio\\miniblockchain\\miniblockchain\\controllers\\hashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|solutionrelative:miniblockchain\\controllers\\hashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|d:\\myworkvisualstudio\\miniblockchain\\miniblockchain\\controllers\\blockchaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|solutionrelative:miniblockchain\\controllers\\blockchaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DAB12B-4BE7-4E4B-9FD0-506750FA8BC5}|Domains\\Domains.csproj|d:\\myworkvisualstudio\\miniblockchain\\domains\\models\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DAB12B-4BE7-4E4B-9FD0-506750FA8BC5}|Domains\\Domains.csproj|solutionrelative:domains\\models\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72FC334-78D2-46FA-906A-416FE3B18ED0}|DAL\\DAL.csproj|d:\\myworkvisualstudio\\miniblockchain\\dal\\contetx\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72FC334-78D2-46FA-906A-416FE3B18ED0}|DAL\\DAL.csproj|solutionrelative:dal\\contetx\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C870A4-E3BE-4477-89AC-2489143E0CC6}|BLL\\BLL.csproj|d:\\myworkvisualstudio\\miniblockchain\\bll\\service\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C870A4-E3BE-4477-89AC-2489143E0CC6}|BLL\\BLL.csproj|solutionrelative:bll\\service\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C870A4-E3BE-4477-89AC-2489143E0CC6}|BLL\\BLL.csproj|d:\\myworkvisualstudio\\miniblockchain\\bll\\service\\blockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C870A4-E3BE-4477-89AC-2489143E0CC6}|BLL\\BLL.csproj|solutionrelative:bll\\service\\blockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|d:\\myworkvisualstudio\\miniblockchain\\miniblockchain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|solutionrelative:miniblockchain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|d:\\myworkvisualstudio\\miniblockchain\\miniblockchain\\miniblockchain.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}|MiniBlockChain\\MiniBlockChain.csproj|solutionrelative:miniblockchain\\miniblockchain.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72FC334-78D2-46FA-906A-416FE3B18ED0}|DAL\\DAL.csproj|d:\\myworkvisualstudio\\miniblockchain\\dal\\migrations\\20260425213055_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72FC334-78D2-46FA-906A-416FE3B18ED0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20260425213055_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260425213055_V1.cs",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\DAL\\Migrations\\20260425213055_V1.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20260425213055_V1.cs",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\DAL\\Migrations\\20260425213055_V1.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20260425213055_V1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:30:56.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniBlockChain\\appsettings.json",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\appsettings.json",
+              "RelativeToolTip": "MiniBlockChain\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T21:26:22.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiniBlockChain.http",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\MiniBlockChain.http",
+              "RelativeDocumentMoniker": "MiniBlockChain\\MiniBlockChain.http",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\MiniBlockChain.http",
+              "RelativeToolTip": "MiniBlockChain\\MiniBlockChain.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-25T21:26:20.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\Program.cs",
+              "RelativeDocumentMoniker": "MiniBlockChain\\Program.cs",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\Program.cs",
+              "RelativeToolTip": "MiniBlockChain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:24:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockChainController.cs",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\Controllers\\BlockChainController.cs",
+              "RelativeDocumentMoniker": "MiniBlockChain\\Controllers\\BlockChainController.cs",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\Controllers\\BlockChainController.cs",
+              "RelativeToolTip": "MiniBlockChain\\Controllers\\BlockChainController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:23:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashController.cs",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\Controllers\\HashController.cs",
+              "RelativeDocumentMoniker": "MiniBlockChain\\Controllers\\HashController.cs",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\MiniBlockChain\\Controllers\\HashController.cs",
+              "RelativeToolTip": "MiniBlockChain\\Controllers\\HashController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:22:35.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlockChainService.cs",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\BLL\\Service\\BlockChainService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\BlockChainService.cs",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\BLL\\Service\\BlockChainService.cs",
+              "RelativeToolTip": "BLL\\Service\\BlockChainService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:21:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HashService.cs",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\BLL\\Service\\HashService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\HashService.cs",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\BLL\\Service\\HashService.cs",
+              "RelativeToolTip": "BLL\\Service\\HashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:20:38.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\DAL\\Contetx\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Contetx\\AppDbContext.cs",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\DAL\\Contetx\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\Contetx\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:18:02.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockChain.cs",
+              "DocumentMoniker": "D:\\myworkvisualstudio\\MiniBlockChain\\Domains\\Models\\BlockChain.cs",
+              "RelativeDocumentMoniker": "Domains\\Models\\BlockChain.cs",
+              "ToolTip": "D:\\myworkvisualstudio\\MiniBlockChain\\Domains\\Models\\BlockChain.cs",
+              "RelativeToolTip": "Domains\\Models\\BlockChain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:17:18.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

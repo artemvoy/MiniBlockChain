@@ -1,0 +1,17 @@
+D:\myworkvisualstudio\MiniBlockChain\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\myworkvisualstudio\MiniBlockChain\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\myworkvisualstudio\MiniBlockChain\DAL\bin\Debug\net8.0\DAL.dll
+D:\myworkvisualstudio\MiniBlockChain\DAL\bin\Debug\net8.0\DAL.pdb
+D:\myworkvisualstudio\MiniBlockChain\DAL\bin\Debug\net8.0\Domains.dll
+D:\myworkvisualstudio\MiniBlockChain\DAL\bin\Debug\net8.0\Domains.pdb
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.dll
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.pdb
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\myworkvisualstudio\MiniBlockChain\DAL\obj\Debug\net8.0\ref\DAL.dll

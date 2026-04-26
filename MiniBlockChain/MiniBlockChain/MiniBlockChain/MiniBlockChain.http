@@ -1,0 +1,6 @@
+@MiniBlockChain_HostAddress = http://localhost:5107
+
+GET {{MiniBlockChain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

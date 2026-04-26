@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBlockChain", "MiniBlockChain\MiniBlockChain.csproj", "{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domains", "Domains\Domains.csproj", "{87DAB12B-4BE7-4E4B-9FD0-506750FA8BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A72FC334-78D2-46FA-906A-416FE3B18ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{40C870A4-E3BE-4477-89AC-2489143E0CC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5B5E95-C2F0-4A2D-812B-F4BFB68499AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DAB12B-4BE7-4E4B-9FD0-506750FA8BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DAB12B-4BE7-4E4B-9FD0-506750FA8BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DAB12B-4BE7-4E4B-9FD0-506750FA8BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DAB12B-4BE7-4E4B-9FD0-506750FA8BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72FC334-78D2-46FA-906A-416FE3B18ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72FC334-78D2-46FA-906A-416FE3B18ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72FC334-78D2-46FA-906A-416FE3B18ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72FC334-78D2-46FA-906A-416FE3B18ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C870A4-E3BE-4477-89AC-2489143E0CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C870A4-E3BE-4477-89AC-2489143E0CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C870A4-E3BE-4477-89AC-2489143E0CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C870A4-E3BE-4477-89AC-2489143E0CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B31B2454-F6D7-42DF-A49C-7552331E0170}
+	EndGlobalSection
+EndGlobal

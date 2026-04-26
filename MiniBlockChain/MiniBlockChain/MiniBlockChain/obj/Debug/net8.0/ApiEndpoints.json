@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "MiniBlockChain.Controllers.BlockchainController",
+    "Method": "Add",
+    "RelativePath": "api/blockchain/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "document",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiniBlockChain.Controllers.BlockchainController",
+    "Method": "Validate",
+    "RelativePath": "api/blockchain/validate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiniBlockChain.Controllers.HashController",
+    "Method": "CreateHash",
+    "RelativePath": "api/hash",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
